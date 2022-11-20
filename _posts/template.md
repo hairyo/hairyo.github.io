@@ -1,7 +1,12 @@
 <!-- Template Copy for Use
 layout: default
 title: "sample1"
-tags: 102-Diary 201-Book 101-Work tag4
+tags: 102Diary 201Book 101Work tag4
 -->
 
 Write Contents Here!
+
+<!--Youtube Template-->
+<div class="movie-wrap">
+<iframe width="703" height="395" src="https://www.youtube.com/embed/cH9XsvlKkLU" title="dog / 初音ミク" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
