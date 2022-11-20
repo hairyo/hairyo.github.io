@@ -2,7 +2,8 @@
 
 hairyo's homepage
 
-## Using theme:
+## Using theme
+URL:https://github.com/h01000110/windows-95
 
 Author: [h01000110 (hi)](https://github.com/h01000110)
 
