@@ -1,11 +1,20 @@
 101work:
   name: 101work
 
-102Diary:
-  name: 102Diary
+102diary:
+  name: 102diary
 
-201Book:
-  name: 201Book
+103photo:
+  name: 103photo
+
+201book:
+  name: 201book
+
+202movie:
+  name: 202movie
+
+203web:
+  name: 203web
 
 tag4:
   name: tag4

@@ -1,7 +1,9 @@
 <!-- Template Copy for Use
+---
 layout: default
 title: "sample1"
-tags: 102Diary 201Book 101work tag4
+tags: 101work 102diary 103photo 201book 202movie 203web
+---
 -->
 
 Write Contents Here!
