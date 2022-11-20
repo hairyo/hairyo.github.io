@@ -1,9 +1,9 @@
 # About This Repository
 
-hairyo's homepage
+hairyo's homepage: https://hairyo.github.io/
 
 ## Using theme
-URL:https://github.com/h01000110/windows-95
+URL: https://github.com/h01000110/windows-95
 
 Author: [h01000110 (hi)](https://github.com/h01000110)
 
