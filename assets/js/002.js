@@ -1,5 +1,3 @@
-// By: h01000110 (hi)
-// github.com/h01000110
 
 function numbers () {
 	var fields = document.getElementsByTagName("code");

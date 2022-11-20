@@ -1,10 +1,8 @@
-# Windows 95 Theme for Jekyll
+# About This Repository
 
-![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
+hairyo's homepage
 
-Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
-
-Demo: [Click here](https://h01000110.github.io/windows-95/)
+## Using theme:
 
 Author: [h01000110 (hi)](https://github.com/h01000110)
 
