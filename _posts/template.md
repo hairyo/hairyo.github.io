@@ -2,7 +2,7 @@
 ---
 layout: default
 title: "sample1"
-tags: 101work 102diary 103photo 201book 202movie 203web
+tags: schoolmizzy hairyo nikki
 ---
 -->
 
