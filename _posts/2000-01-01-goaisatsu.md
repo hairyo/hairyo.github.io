@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "はじめに"
-tags: nikki
+tags: diary
 ---
 
 ----

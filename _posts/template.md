@@ -2,7 +2,7 @@
 ---
 layout: default
 title: "sample1"
-tags: schoolmizzy hairyo nikki
+tags: schoolmizzy hairyo diary
 ---
 -->
 
