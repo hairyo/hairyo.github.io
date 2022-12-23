@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "はじめに"
-tags: diary
+tags: 201diary
 ---
 
 ----
