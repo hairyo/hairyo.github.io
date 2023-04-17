@@ -1,6 +1,6 @@
 # About This Repository
 
-hairyo's homepage: https://hairyo.github.io/
+This is hairyo's homepage: https://hairyo.github.io/
 
 ## Using Theme
 URL: https://github.com/h01000110/windows-95
