@@ -3,8 +3,4 @@ layout: me
 title: About
 ---
 
-こんにちは。配慮です。
-
-このホームページでは作った音楽の紹介や日記などの公開をしています。
-
-ご連絡は各種SNSのDMからお気軽にどうぞ。
+schoolmizzy is Indie Vocaloid Unit.
