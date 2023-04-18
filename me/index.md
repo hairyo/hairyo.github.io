@@ -3,4 +3,14 @@ layout: me
 title: About
 ---
 
-schoolmizzy is Indie Vocaloid Unit.
+# Welcome to schoolmizzy's homepage !!!
+
+## schoolmizzy is Indie Vocaloid Unit
+
+# member
+
+## hairyo
+music and design
+
+## kuri
+music
